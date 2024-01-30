@@ -138,6 +138,17 @@ body {
     background-color: rgb(56, 107, 216);
 }
 
+.q1-goals {
+    background-color: blueviolet;
+}
+
+.recruiting {
+    background-color: lightgreen;
+}
+
+.mobile {
+    background-color: orange;
+}
 
 .mt20 {
     margin-top: 20px;
