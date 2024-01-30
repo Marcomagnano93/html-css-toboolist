@@ -42,6 +42,7 @@ body {
     width: 1024px;
     height: 80px;
     border-radius: 25px 25px 0 0;
+    margin-bottom: 5px;
 }
 
 .nav-button-container {
@@ -72,4 +73,15 @@ body {
 #section {
     border: 1px solid black;
     margin-left: 10px;
+}
+
+
+.main-box {
+
+        background-color: white;
+        width: 1024px;
+        height: 800px;
+        border-radius: 0 0 25px 25px;
+        margin-bottom: 20px;
+
 }
