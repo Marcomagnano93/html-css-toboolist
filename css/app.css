@@ -86,22 +86,59 @@ body {
 
 }
 
-.section-title {
+.section-marg-pad {
     margin-left: 50px;
     padding-top: 50px;
 }
 
+.section-title {
+    font-size: 35px;
+}
 
 .circle{
-    
-    padding: 1px;
-    border: 1px solid black;
+
+    height: 15px;
+    width: 15px;
+    padding: 5px;
+    border: 1px solid;
     border-radius: 50%;
     text-align: center;
     
 }
 
-.text{
+.green {
+    border-color: green;
+    color: green;
+}
+
+.red {
+    border-color: red;
+    color: red;
+}
+
+.section-text{
     display: inline;
     margin-left: 30px;
+    font-size: 25px;
+}
+
+.section-button {
+    width: 100px;
+    height: 30;
+    color: white;
+    display: inline-block;
+    vertical-align: middle;
+    text-align: center;
+    line-height: 25px;
+    border-radius: 10px;
+    font-size: 15px;
+}
+
+.editorial {
+    background-color: rgb(56, 107, 216);
+}
+
+
+.mt20 {
+    margin-top: 20px;
 }
