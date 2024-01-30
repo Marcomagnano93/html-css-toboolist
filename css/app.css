@@ -150,6 +150,14 @@ body {
     background-color: orange;
 }
 
+.website {
+    background-color: palevioletred;
+}
+
+.sales {
+    background-color: limegreen;
+}
+
 .mt20 {
     margin-top: 20px;
 }
