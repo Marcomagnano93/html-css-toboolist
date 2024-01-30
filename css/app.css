@@ -85,3 +85,23 @@ body {
         margin-bottom: 20px;
 
 }
+
+.section-title {
+    margin-left: 50px;
+    padding-top: 50px;
+}
+
+
+.circle{
+    
+    padding: 1px;
+    border: 1px solid black;
+    border-radius: 50%;
+    text-align: center;
+    
+}
+
+.text{
+    display: inline;
+    margin-left: 30px;
+}
