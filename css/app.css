@@ -4,8 +4,14 @@
     box-sizing: border-box;
 }
 
+ul {
+	list-style: none;
+}
+
+
 body {
     background-color: rgb(236, 236, 236);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
 .mb-50 {
@@ -23,11 +29,12 @@ body {
     vertical-align: center;
     padding-left: 30px;
     padding-top: 20px;
+    height: 90px;
 }
 
 .banner-title {
     display: inline-block;
-    font-size: 60px;
+    font-size: 70px;
 }
 
 .container {
