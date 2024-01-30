@@ -33,11 +33,43 @@ body {
 .container {
 	max-width: 1024px;
 	margin: 0 auto;
-    background-color: white;
+    
 }
 
 .nav-box {
+
+    background-color: white;
     width: 1024px;
     height: 80px;
     border-radius: 25px 25px 0 0;
+}
+
+.nav-button-container {
+    width: 320px;
+    height: 50px;
+    margin-left: 50px;
+}
+
+
+.button-nav {
+    width: 150px;
+    height: 50px;
+    display: inline-block;
+    vertical-align: middle;
+    text-align: center;
+    line-height: 50px;
+    border-radius: 20px;
+    font-size: 20px;
+    margin-top: 15px;
+
+}
+
+#task {
+    background-color: rgb(56, 107, 216);
+    color: white;
+}
+
+#section {
+    border: 1px solid black;
+    margin-left: 10px;
 }
