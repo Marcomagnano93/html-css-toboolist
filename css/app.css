@@ -26,15 +26,15 @@ body {
 }
 
 .logo {
-    vertical-align: center;
+    vertical-align: middle;
     padding-left: 30px;
-    padding-top: 20px;
     height: 90px;
 }
 
 .banner-title {
     display: inline-block;
     font-size: 70px;
+    vertical-align: middle;
 }
 
 .container {
